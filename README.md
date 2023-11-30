@@ -18,7 +18,7 @@
 <div>
     <h2 align="center">Sobre Mim</h1>
   <p>🧠 Sou um novo Desenvolvedor Front-end curioso e dedicado a criar novas experiencias web excepcionais. Minha jornada nesse universo da programação começou com a curiosidade de como códigos 
-     poderiam transformar ideias em belas interfaces. Com habilidades sólidas em HTML, CSS e JavaScript, aprendi a construir interfaces intuitivas e atraentes para usuarios da web.</p>
+     poderiam transformar ideias em belas interfaces.</p>
 
   <p>📚 Desde então, tenho aprimorado minhas habilidades na criação de layouts responsivos e elegantes, garantindo que cada página que desenvolvo seja uma experiência cativante para os 
     usuários.</p>
