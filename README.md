@@ -1,4 +1,4 @@
-<h1>Falaa Dev, Guilherme aqui! 👋 </h1>
+<h1>Falaa Dev, Guilherme aqui! ☕ </h1>
 
 
 <div>
@@ -33,8 +33,8 @@
  #
 
 <div>
-  <img  src="https://github-readme-stats.vercel.app/api?username=vnguilherme&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=vnguilherme&layout=compact&langs_count=16&theme=nord"/>
+  <img  src="https://github-readme-stats.vercel.app/api?username=vnguilherme&show_icons=true&theme=gruvbox_light&include_all_commits=true&count_private=true"/>
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=vnguilherme&layout=compact&langs_count=16&theme=gruvbox_light"/>
 
 </div>
 
