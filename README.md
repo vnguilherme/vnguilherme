@@ -33,8 +33,8 @@
  #
 
 <div>
-  <img  src="https://github-readme-stats.vercel.app/api?username=vnguilherme&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=vnguilherme&layout=compact&langs_count=16&theme=midnight-purple"/>
+  <img  src="https://github-readme-stats.vercel.app/api?username=vnguilherme&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=vnguilherme&layout=compact&langs_count=16&theme=nord"/>
 
 </div>
 
