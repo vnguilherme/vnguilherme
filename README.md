@@ -34,7 +34,7 @@
 
 <div>
   <img  src="https://github-readme-stats.vercel.app/api?username=vnguilherme&show_icons=true&theme=gruvbox_light&include_all_commits=true&count_private=true"/>
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=vnguilherme&layout=compact&langs_count=16&theme=gruvbox_light"/>
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=Joelfm4&hide_border=false&theme=gruvbox_light"/>
 
 </div>
 
