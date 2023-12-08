@@ -47,13 +47,10 @@
   <br>
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=vnguilherme&theme=dark&show_icons=true" alt="Anurag's GitHub stats">
+<img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=vnguilherme_border=false&theme=dark"/>
+
   </p>
+
 </details>
-
-<div>
-  <img  src="https://github-readme-stats.vercel.app/api?username=vnguilherme&show_icons=true&theme=gruvbox_light&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=Joelfm4&hide_border=false&theme=gruvbox_light"/>
-
-</div>
 
 
