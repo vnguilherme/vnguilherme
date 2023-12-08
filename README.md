@@ -46,7 +46,7 @@
   <summary>📔 Status GitHub:</summary>
   <br>
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=nyelkk&theme=dark&show_icons=true" alt="Anurag's GitHub stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=vnguilherme&theme=dark&show_icons=true" alt="Anurag's GitHub stats">
   </p>
 </details>
 
