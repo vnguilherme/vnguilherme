@@ -34,6 +34,27 @@
 
  #
 
+<details open="">
+<summary>
+  💻 Tecnologias que uso atualmente:
+</summary>
+<br>
+ <br>
+<img align="center" alt="HTML" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">      
+<img align="center" alt="CSS" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+<img align="center" alt="Js" width="30"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+<br>
+ <br>
+</details>
+
+<details open="">
+  <summary>📔 Status GitHub:</summary>
+  <br>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=nyelkk&theme=dark&show_icons=true" alt="Anurag's GitHub stats">
+  </p>
+</details>
+
 <div>
   <img  src="https://github-readme-stats.vercel.app/api?username=vnguilherme&show_icons=true&theme=gruvbox_light&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=Joelfm4&hide_border=false&theme=gruvbox_light"/>
