@@ -1,4 +1,7 @@
-<h1>Falaa Dev, Guilherme aqui! ☕ </h1>
+<h1 align="center">Opa! <img src="img/Imagem 7.png" width="30px">, Guilherme aqui! </h1>
+<p align="center">
+  <a href="https://github.com/Ratheshan03/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Desenvolvedor+Web;Designer;Apaixonado+pela+Tecnologia!+<3&center=true&width=500&height=50"></a>
+</p>
 
 
 <div>
