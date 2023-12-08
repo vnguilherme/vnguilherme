@@ -1,4 +1,4 @@
-<h1 align="center">Opa! <img src="https://media.discordapp.net/attachments/1173055742807379980/1182760109877772308/Picsart_23-12-08_16-06-11-277.png?ex=6585de30&is=65736930&hm=3bc04f87db8b44894034cf21c41e0ce06d98a0641af8d169654e060c46b31e06&=&format=webp&quality=lossless&width=454&height=417" width="40px">, Guilherme aqui! </h1>
+<h1 align="center">Opa! <img src="https://media.discordapp.net/attachments/1173055742807379980/1182760109877772308/Picsart_23-12-08_16-06-11-277.png?ex=6585de30&is=65736930&hm=3bc04f87db8b44894034cf21c41e0ce06d98a0641af8d169654e060c46b31e06&=&format=webp&quality=lossless&width=454&height=417" width="35px">, Guilherme aqui! </h1>
 <p align="center">
   <a href="https://github.com/vnguilherme/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Desenvolvedor+Web;&center=true&width=500&height=50"></a>
 </p>
