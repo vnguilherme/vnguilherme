@@ -1,4 +1,4 @@
-<h1 align="center">Opa! <img src="" width="30px">, Guilherme aqui! </h1>
+<h1 align="center">Opa! Guilherme aqui! </h1>
 <p align="center">
   <a href="https://github.com/vnguilherme/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Desenvolvedor+Web;&center=true&width=500&height=50"></a>
 </p>
