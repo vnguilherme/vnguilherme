@@ -5,13 +5,11 @@
 
 
 <div>
-  <p>🧠 Sou Desenvolvedor Web dedicado a criar novas experiencias web excepcionais. Minha jornada nesse universo da programação começou com a curiosidade de como códigos 
+  <p>🔮 Sou Desenvolvedor Web dedicado a criar novas experiencias web excepcionais. Minha jornada nesse universo da programação começou com a curiosidade de como códigos 
      poderiam transformar ideias em belas interfaces.</p>
 
-  <p>📚 Desde então, tenho aprimorado minhas habilidades na criação de layouts responsivos e elegantes, garantindo que cada página que desenvolvo seja uma experiência cativante para os 
+  <p>💜 Desde os 16 anos, tenho aprimorado minhas habilidades na criação de layouts responsivos e elegantes, garantindo que cada página que desenvolvo seja uma experiência cativante para os 
     usuários.</p>
-
-  <p>📌 Minha jornada como desenvolvedor é uma busca contínua por conhecimento. Estou sempre explorando novas técnicas.</p>
 
   <p>📥 Sinta-se à vontade para entrar em contato e explorar como podemos transformar suas ideias em realidade na web!</p>
 
