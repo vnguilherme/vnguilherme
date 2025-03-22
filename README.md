@@ -5,7 +5,7 @@
 
 
 <div>
-  <p>🧠 Sou Desenvolvedor Front-end curioso e dedicado a criar novas experiencias web excepcionais. Minha jornada nesse universo da programação começou com a curiosidade de como códigos 
+  <p>🧠 Sou Desenvolvedor Web dedicado a criar novas experiencias web excepcionais. Minha jornada nesse universo da programação começou com a curiosidade de como códigos 
      poderiam transformar ideias em belas interfaces.</p>
 
   <p>📚 Desde então, tenho aprimorado minhas habilidades na criação de layouts responsivos e elegantes, garantindo que cada página que desenvolvo seja uma experiência cativante para os 
