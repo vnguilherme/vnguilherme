@@ -26,7 +26,7 @@
 
 <details open="">
 <summary>
-  💻 Tecnologias que uso atualmente:
+  🤖 Linguagens e Tecnologias
 </summary>
 <br>
  <br>
@@ -38,7 +38,7 @@
 </details>
 
 <details open="">
-  <summary>📔 Status GitHub:</summary>
+  <summary>📔 Estatísticas</summary>
   <br>
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=vnguilherme&theme=midnight&purple_icons=true" alt="Anurag's GitHub stats">
