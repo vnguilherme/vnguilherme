@@ -8,7 +8,7 @@
   <p>👨🏽‍💻 Sou Desenvolvedor Web com foco em criar experiencias web excepcionais. Minha jornada na programação começou com a curiosidade de como códigos 
      poderiam transformar ideias em belas interfaces.</p>
 
-  <p>🍕 Desde os 16 anos, tenho aprimorado minhas habilidades na criação de layouts responsivos e elegantes, garantindo que cada página que desenvolvo seja uma experiência cativante para os 
+  <p>🧡 Desde os 16 anos, tenho aprimorado minhas habilidades na criação de layouts responsivos e elegantes, garantindo que cada página que desenvolvo seja uma experiência cativante para os 
     usuários.</p>
 
   <p>📥 Sinta-se à vontade para entrar em contato e explorar como podemos transformar suas ideias em realidade na web!</p>
